@@ -2,7 +2,6 @@
 0.0.0.0 chatgpt.com
 0.0.0.0 www.chatgpt.com
 0.0.0.0 chat.openai.com
-0.0.0.0 www.chat.openai.com
 0.0.0.0 searchgpt.com
 0.0.0.0 www.searchgpt.com
 0.0.0.0 x.ai
@@ -14,9 +13,8 @@
 0.0.0.0 anthropic.com
 0.0.0.0 www.anthropic.com
 0.0.0.0 gemini.google.com
-0.0.0.0 www.gemini.google.com
+0.0.0.0 gemini.google.com
 0.0.0.0 copilot.microsoft.com
-0.0.0.0 www.copilot.microsoft.com
 0.0.0.0 phind.com
 0.0.0.0 www.phind.com
 0.0.0.0 perplexity.ai
@@ -29,6 +27,7 @@
 0.0.0.0 www.duck.ai
 0.0.0.0 claude.online
 0.0.0.0 www.claude.online
+0.0.0.0 ai.meta.com
 
 0.0.0.0 deepai.org
 0.0.0.0 www.deepai.org
@@ -46,3 +45,7 @@
 0.0.0.0 www.julius.ai
 0.0.0.0 writify.ai
 0.0.0.0 www.writify.ai
+0.0.0.0 huggingface.co
+0.0.0.0 www.huggingface.co
+0.0.0.0 mistral.ai
+0.0.0.0 www.mistral.ai
