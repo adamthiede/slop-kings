@@ -1,51 +1,54 @@
 # recommended to block *.ai as well
-0.0.0.0 chatgpt.com
-0.0.0.0 www.chatgpt.com
-0.0.0.0 chat.openai.com
-0.0.0.0 searchgpt.com
-0.0.0.0 www.searchgpt.com
-0.0.0.0 x.ai
-0.0.0.0 www.x.ai
-0.0.0.0 grok.com
-0.0.0.0 www.grok.com
-0.0.0.0 claude.ai
-0.0.0.0 www.claude.ai
-0.0.0.0 anthropic.com
-0.0.0.0 www.anthropic.com
-0.0.0.0 gemini.google.com
-0.0.0.0 gemini.google.com
-0.0.0.0 copilot.microsoft.com
-0.0.0.0 phind.com
-0.0.0.0 www.phind.com
-0.0.0.0 perplexity.ai
-0.0.0.0 www.perplexity.ai
-0.0.0.0 t3.chat
-0.0.0.0 www.t3.chat
-0.0.0.0 deepseek.com
-0.0.0.0 www.deepseek.com
-0.0.0.0 duck.ai
-0.0.0.0 www.duck.ai
-0.0.0.0 claude.online
-0.0.0.0 www.claude.online
-0.0.0.0 ai.meta.com
+chatgpt.com
+www.chatgpt.com
+chat.openai.com
+searchgpt.com
+www.searchgpt.com
+x.ai
+www.x.ai
+grok.com
+www.grok.com
+claude.ai
+www.claude.ai
+anthropic.com
+www.anthropic.com
+gemini.google.com
+gemini.google.com
+copilot.microsoft.com
+phind.com
+www.phind.com
+perplexity.ai
+www.perplexity.ai
+t3.chat
+www.t3.chat
+deepseek.com
+www.deepseek.com
+duck.ai
+www.duck.ai
+claude.online
+www.claude.online
+ai.meta.com
 
-0.0.0.0 deepai.org
-0.0.0.0 www.deepai.org
-0.0.0.0 quillbot.com
-0.0.0.0 www.quillbot.com
-0.0.0.0 chatbotai.com
-0.0.0.0 www.chatbotai.com
-0.0.0.0 claila.com
-0.0.0.0 www.claila.com
-0.0.0.0 ai-chats.net
-0.0.0.0 www.ai-chats.net
-0.0.0.0 claila.com
-0.0.0.0 www.claila.com
-0.0.0.0 julius.ai
-0.0.0.0 www.julius.ai
-0.0.0.0 writify.ai
-0.0.0.0 www.writify.ai
-0.0.0.0 huggingface.co
-0.0.0.0 www.huggingface.co
-0.0.0.0 mistral.ai
-0.0.0.0 www.mistral.ai
+deepai.org
+www.deepai.org
+quillbot.com
+www.quillbot.com
+chatbotai.com
+www.chatbotai.com
+claila.com
+www.claila.com
+ai-chats.net
+www.ai-chats.net
+claila.com
+www.claila.com
+julius.ai
+www.julius.ai
+writify.ai
+www.writify.ai
+huggingface.co
+www.huggingface.co
+mistral.ai
+www.mistral.ai
+openclaw.ai
+moltbot.org
+moltbook.com
